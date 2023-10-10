@@ -4,4 +4,4 @@ All these links should work.
 
 | Name | Link |
 | --- | --- |
-| hi | j | ks |
+| ПАНЧ: создание музыки и песни | https://testflight.apple.com/join/Pu8mudXn |
