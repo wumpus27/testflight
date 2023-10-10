@@ -11,4 +11,5 @@ All these links should work. [See not available testflight apps](#1)
 | Name | Link |
 | --- | --- |
 | Reevolt | https://testflight.apple.com/join/ZTYYn84M |
-| ? | https://testflight.apple.com/join/iHcEgAaT |
+| Norton 360 Security & VPN | https://testflight.apple.com/join/iHcEgAaT |
+| Testflight | https://testflight.apple.com/join/tjdHmbnT |
